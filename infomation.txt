@@ -1,3 +1,2 @@
 THÔNG TIN BẢN CẬP NHẬT:
-- Silent antiban
-- Tối ưu esp
+- update GUI
